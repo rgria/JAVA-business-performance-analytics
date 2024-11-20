@@ -1,0 +1,2 @@
+org.apache.commons:commons-math3:3.6.1
+jfreechart:jfreechart:1.5.3
